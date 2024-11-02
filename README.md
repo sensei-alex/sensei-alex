@@ -2,6 +2,5 @@
 Я Александр, студент [КубГТУ](https://kubstu.ru), веб-разработчик, иногда CLI и embedded-разработчик (когда мне становится скучно).
 
 Сейчас я работаю над:
-- ботом (который я еще не опубликовал) для создания картинок для [моего института](https://t.me/abitimritts) и [соседнего института](https://t.me/IFN_kubstu)
-- [приложение для отображения интерактивных карт](https://github.com/alexanderthesensei/history_display)
 - [серия лекций](https://github.com/alexanderthesensei/basics) для обучения друзей си и линуксу, поскольку они никак с этим не отстанут)
+- [приложение для отображения интерактивных карт](https://github.com/alexanderthesensei/history_display)
