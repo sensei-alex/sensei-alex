@@ -1,7 +1,6 @@
-# Здравствуйте!
-Я Александр, студент [КубГТУ](https://kubstu.ru), веб-разработчик, иногда CLI и embedded-разработчик (когда мне становится скучно).
+# Hello world!
 
-Сейчас я работаю над:
-- приложением для создания глубоко вложенных презентаций и интерактивных карт
-- приложением для уроков по c и linux (замена [basics](https://github.com/alexanderthesensei/basics))
-- [приложением для превращения любой стены, на которую направлен проектор, в интерактивную](https://snsalx.github.io/wall)
+I'm currently working on:
+- [lab](https://github.com/seni-alex/lab), a UNIX/C course platform
+- [sld](https://github.com/snsalx/sld), a tool to make complex presentations
+- my website (not sharing yet)
