@@ -1,9 +1,9 @@
 # Hello world!
 
 ## Active Projects
-- [Slide](https://github.com/snsalx/sld), a tool to make complex presentations
+- [Slide](https://sld.snlx.net), a tool to make complex presentations
 - [QRSend](https://qrs.snlx.net), a tool for sending data via a qr code
 
 ## Projects In Early Development
-- [lab](https://github.com/sensei-alex/lab), a UNIX/C course platform
+- [lab](https://lab.snlx.net), a UNIX/C course platform
 - my website (not sharing yet)
