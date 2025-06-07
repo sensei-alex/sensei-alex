@@ -7,3 +7,6 @@
 ## Projects In Early Development
 - [lab](https://lab.snlx.net), a UNIX/C course platform
 - my website (not sharing yet)
+
+## Updates
+Available at https://snlx.net/blog.
