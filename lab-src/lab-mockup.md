@@ -6,7 +6,7 @@ area: "[[lab]]"
 publish: "[[lab-src]]"
 lang: en
 runner: lab-circuitpy-runner
-next: "[[lab-mockup]]"
+next: "[[lab-welcome]]"
 ---
 
 This is a test of the new system. I'm making a new app and am too lazy to write any actual lessons while this might change.
