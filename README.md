@@ -1,12 +1,14 @@
 # Hello world!
 
 ## Active Projects
-- [Slide](https://sld.snlx.net), a tool to make complex presentations
 - [QRSend](https://qrs.snlx.net), a tool for sending data via a qr code
+- [Slide](https://sld.snlx.net), a tool to make complex presentations
 
 ## Projects In Early Development
-- [lab](https://lab.snlx.net), a UNIX/C course platform
-- my website (not sharing yet)
+- lab, a programming course platform
+
+## Planned
+- my website
 
 ## Updates
 Available at https://snlx.net/blog.
