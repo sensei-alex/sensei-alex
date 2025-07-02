@@ -28,14 +28,12 @@ updated: 2025-06-14
 - add markdown support to text objects
 - tablet support
 
-## Jun '25
+## Jul '25
 - [ ] better link component
 - [ ] (object type)-specific property
 - [ ] switch to a single-page app
 - [ ] remove markdown wysiwyg (was causing more problems than it solved)
 - [ ] smarter text element behavior
-
-## Jul '25
 - [ ] local storage & optional auth
 - [ ] sync engine
 - [ ] clean up the codebase
