@@ -1,12 +1,20 @@
 ---
+runner: none
+next: "[[lab-thermometer]]"
 tags:
 - resource
-style: lab
 area: "[[lab]]"
 publish: "[[lab-src]]"
-lang: en
-runner: circuitpy
-prev: "[[lab-mockup]]"
 ---
 
-This will be an actual file at some point, now it's just to test the UI
+![banner](lab-banner.svg)
+
+This is a work-in-progress course for beginners that goes over:
+- electronics / programming microcontrollers
+- exchanging data over the network
+- Linux basics
+- websites & webapps
+
+It is composed of small-ish projects. You'll need to get some hardware for some of them. All of it can be re-used later.
+
+Press "next" in the bottom left to continue.
