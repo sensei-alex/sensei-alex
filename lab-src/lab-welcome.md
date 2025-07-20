@@ -1,8 +1,8 @@
 ---
 runner: none
-next: "[[lab-thermometer]]"
+next: "[[lab-relay-timer]]"
 tags:
-- resource
+  - resource
 area: "[[lab]]"
 publish: "[[lab-src]]"
 ---
