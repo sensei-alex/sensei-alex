@@ -14,7 +14,7 @@ Please unplug the microcontroller board from your computer and plug it into a ph
 Your browser prevents websites from connecting to your devices wirelessly as the communication between them and the site is unencrypted. This doesn't matter for our purposes since I'm not collecting or storing your data, so there's nothing that really needs encryption.
 
 Go to site settings and allow insecure content like so:
-![[scan-security.svg]]
+![go to the page settings and allow insecure content](scan-security.svg)
 
 Reload this page. Assuming the board is plugged in, this site will connect to it. This might take about a minute. Then the top right section should load the program from it. The hello world program is baked into circuitpython, so you see it after installing it.
 

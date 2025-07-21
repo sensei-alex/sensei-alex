@@ -13,7 +13,7 @@ We'll modify the last exercise to control the LED now. Type `gg` to go to the be
 
 The `digitalio` module is used to read and control pins as *digital* inputs or outputs. There are 2 kinds of signals: digital and analog.
 
-![[lab-signal-types.svg]]
+![analog vs digital](lab-signal-types.svg)
 
 Analog signals vary between 0 volts and some maximum, 3.3V in this case. Digital is either on or off.
 
