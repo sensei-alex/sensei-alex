@@ -5,8 +5,10 @@ area: "[[sld]]"
 publish: "[[notes]]"
 style: roadmap
 created: 2025-06-14
-updated: 2025-06-14
+updated: 2025-07-30
 ---
+
+My plans for [[sld]] *before* [[sld-pausing]] (irrelevant now)
 
 ## Jan '25
 - scaffold the project
